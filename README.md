@@ -13,6 +13,7 @@ I want to make this book community-driven!**
 ## Notes
 
 ### Installing Angular
+- Building angular
 - Using angular-seed
 - Using Yeoman
 
