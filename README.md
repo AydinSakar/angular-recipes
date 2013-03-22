@@ -13,11 +13,15 @@ I want to make this book community-driven!**
 ## Notes
 
 ### Installing Angular
-* Using angular-seed
-* Using Yeoman
+- Using angular-seed
+- Using Yeoman
 
 ### Bootstrapping Angular
+- Using ng-app
+- Using angular.bootstrap()
 
-* Using ng-app
-* Using angular.bootstrap()
-
+### Dependency Injection
+- Inferring Dependencies
+- $inject Annotation
+- Inline Annotation
+- Pros and Cons
