@@ -21,8 +21,20 @@ I want to make this book community-driven!**
 - Using ng-app
 - Using angular.bootstrap()
 
+### Configuring Angular at runtime
+- $interpolate delimiter
+
+
 ### Dependency Injection
 - Inferring Dependencies
 - $inject Annotation
 - Inline Annotation
 - Pros and Cons
+
+### Services
+
+### Controllers
+
+### Directives
+
+### Testing
