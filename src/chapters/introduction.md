@@ -1,3 +1,3 @@
 #Introduction
 
-Nothing to see here yet! Boom
+Nothing to see here yet!
