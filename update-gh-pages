@@ -11,3 +11,6 @@ cd builds/html
 cp -r * ../../
 cd ../../
 rm -rf builds
+git add .
+git commit -m "Automatic gh-pages commit."
+git checkpout master
