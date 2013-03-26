@@ -1,0 +1,13 @@
+#!bin/bash/ -e
+
+if git status --porcelain 2>/dev/null | grep -q .; then
+  echo "Working copy is dirty" >&2
+  exit 1
+fi
+
+git checkout gh-pages
+rm -rf images && rm index.html && rm main.min.css
+cd builds/html
+cp -r * ../../
+cd ../../
+rm -rf builds
