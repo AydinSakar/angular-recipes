@@ -1,6 +1,6 @@
 src=src/index.md
-title='Book Title'
-file='book-title'
+title='Angular Recipes'
+file='angular-recipes'
 
 html:
 	pandoc -s -N --section-divs $(src) -t html5 -o builds/html/index.html \
